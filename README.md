@@ -16,7 +16,6 @@ In Ethiopia, fundraising for personal and community emergencies is often done th
 - Community-driven support reporting
 - Admin-based oversight for trust and accountability
 
-This project is developed as a **Final Year Project (FYP)**.
 
 ---
 
@@ -34,43 +33,43 @@ This project is developed as a **Final Year Project (FYP)**.
 
 ## 👥 System Actors
 
-- **Fundraiser** – Creates fundraising campaigns
-- **Donor** – Contributes to campaigns
-- **Community Member** – Reports urgent life challenges
-- **Administrator** – Verifies campaigns, manages users, and monitors the system
+- **Fundraiser** : Creates fundraising campaigns
+- **Donor** : Contributes to campaigns
+- **Community Member** : Reports urgent life challenges
+- **Administrator** : Verifies campaigns, manages users, and monitors the system
 
 ---
 
 ## ⭐ Key Features
 
-- 📱 Phone number–based user registration
-- 🗂 Life-event campaign categorization (Medical, Education, Funeral, Disaster, etc.)
-- ✅ Admin verification and approval of campaigns
-- 💰 Donation tracking with progress visualization
-- 🕶 Anonymous donation option
-- 🔄 Campaign updates for transparency
-- 🚨 Community Support Reporting (life-related challenges)
-- 📊 Admin dashboard and reporting
+- Phone number–based user registration
+- Life-event campaign categorization (Medical, Education, Funeral, Disaster, etc.)
+- Admin verification and approval of campaigns
+- Donation tracking with progress visualization
+- Anonymous donation option
+- Campaign updates for transparency
+- Community Support Reporting (life-related challenges)
+- Admin dashboard and reporting
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - HTML5
 - CSS3 / Tailwind CSS
-- JavaScript
+- React.js
 
 ### Backend
-- PHP (Laravel) **or** Node.js (Express)
+- Node.js (Express)
 
 ### Database
-- MySQL
+- PostgreSQL
 
 ### Tools
 - VS Code
 - Git & GitHub
-- XAMPP / Local server
+- Local server
 - Figma (UI design)
 
 ---
@@ -78,4 +77,5 @@ This project is developed as a **Final Year Project (FYP)**.
 ## 🏗️ System Architecture
 
 The system follows a **three-tier architecture**:
+
 
