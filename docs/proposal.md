@@ -155,9 +155,4 @@ The project will follow a structured software development approach:
 - Improved transparency and trust in personal fundraising systems.
 - A scalable foundation for future real-world deployment.
 
----
-
-## 11. Conclusion
-
-CommunityConnect aims to address a real and pressing problem in Ethiopian society by providing a localized, simple, and trustworthy crowdfunding platform for personal life events. By focusing on essential, culturally relevant features and maintaining a clear project scope, the system is suitable for a Final Year Project and offers strong academic and social value.
 
