@@ -5,6 +5,14 @@
 **CommunityConnect: A Donation Platform for Ethiopia That Bridges Donors and Communities**
 
 ---
+
+## Abstract
+
+CommunityConnect is a web-based, life-oriented donation and crowdfunding platform designed to address the challenges of informal fundraising practices in Ethiopia. Currently, individuals and communities rely heavily on social media, personal networks, and manual bank transfers to raise funds for medical emergencies, education expenses, funerals, disasters, and community projects. These methods lack transparency, accountability, and proper verification, leading to mistrust and limited donor participation, especially from the Ethiopian diaspora.
+CommunityConnect aims to provide a secure, transparent, and localized digital platform that enables individuals and communities to create verified fundraising campaigns while allowing donors to contribute confidently. The system incorporates admin-based campaign verification, donation progress tracking, community support reporting, and culturally relevant features such as anonymous donations and phone number–based registration. This project is proposed as a Final Year Project and serves as a scalable foundation for a real-world Ethiopian donation platform.
+
+---
+
 ## 1. Introduction
 
 ### 1.1 Background Study
