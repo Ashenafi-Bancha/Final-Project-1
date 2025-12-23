@@ -6,15 +6,33 @@
 
 ---
 ## 1. Introduction
+
 ### 1.1 Background Study
 
-In Ethiopia, individuals facing life challenges such as medical emergencies, education expenses, funeral costs, and sudden personal crises often depend on informal fundraising mechanisms. These mechanisms typically involve social media posts, personal bank transfers, or word-of-mouth communication. While these approaches reflect the country’s strong culture of community support, they suffer from significant limitations, including lack of transparency, limited reach, weak verification mechanisms, and low donor trust.
+Ethiopia has a strong tradition of community support and collective responsibility, where individuals assist one another during challenging life events such as medical emergencies, education expenses, funerals, and natural disasters. This culture is further strengthened by the contribution of the Ethiopian diaspora, which plays an important role in supporting families and community initiatives financially.
 
-International crowdfunding platforms such as GoFundMe provide structured solutions for personal fundraising; however, they are not fully accessible or localized for Ethiopian users due to contextual, technical, and payment-related constraints. As a result, there is a growing need for a localized, simple, and trustworthy digital crowdfunding platform that focuses on individual life-based fundraising within the Ethiopian context.
+Despite this strong social support system, fundraising activities remain largely informal and fragmented. Individuals commonly rely on social media posts, word-of-mouth communication, and manual bank transfers to raise funds. These methods lack proper verification, transparency, tracking, and accountability mechanisms, which reduces donor trust and limits their effectiveness.
 
-CommunityConnect is proposed as a web-based, GoFundMe-like crowdfunding platform that enables individuals to create verified fundraising campaigns for personal life events while allowing donors to contribute securely and transparently.
+With the increasing adoption of digital technologies and internet services in Ethiopia, there is an opportunity to transform traditional fundraising into a more structured and reliable digital process. Although international crowdfunding platforms such as GoFundMe offer structured solutions, they are not fully accessible or localized for Ethiopian users due to contextual and payment-related constraints.
+
+To address these challenges, CommunityConnect is proposed as a web-based, localized crowdfunding platform that enables individuals to create verified fundraising campaigns for personal life events and community needs. The platform aims to provide a secure, transparent, and trustworthy environment for donors while strengthening community support through technology.
 
 ---
+
+### 1.2 Reason to Study
+
+The need to study and develop CommunityConnect arises from the absence of a centralized, reliable, and locally tailored digital donation platform within the Ethiopian context. Although international crowdfunding platforms such as GoFundMe provide structured fundraising solutions, they are not fully accessible to Ethiopian users due to payment integration challenges, regulatory constraints, limited localization, and contextual differences. As a result, many individuals and communities are unable to benefit from existing global crowdfunding technologies.
+Studying this problem is essential to understand how modern web-based fundraising systems can be adapted to align with Ethiopia’s social, cultural, and technological environment. By addressing issues of transparency, verification, and accountability, this study seeks to design a system that enhances donor trust and improves the overall effectiveness of donation-based fundraising. Furthermore, the study contributes to exploring how digital platforms can strengthen community support mechanisms and promote more organized and credible fundraising practices in Ethiopia.
+
+--- 
+
+### 1.3. Motivation
+
+The motivation for this project stems from real-life observations of individuals and communities facing significant challenges in raising funds during critical life events, such as medical emergencies, education-related expenses, and funeral costs. Despite the presence of genuine and urgent needs, many fundraising efforts fail to receive adequate support due to donor mistrust, lack of transparency, and the absence of reliable verification mechanisms in existing informal fundraising practices.
+Furthermore, this project is motivated by the aspiration to contribute to Ethiopia’s ongoing digital transformation by applying modern web technologies to address pressing social challenges. Developing CommunityConnect as a Final Year Project provides an opportunity to build a socially impactful and locally relevant system that strengthens community support, promotes transparency, and delivers meaningful benefits to individuals and communities across Ethiopia.
+
+---
+
 
 ## 2. Statement of the Problem
 
