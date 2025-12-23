@@ -2,11 +2,11 @@
 
 ## Project Title
 
-**CommunityConnect: A Life-Oriented Crowdfunding Platform (GoFundMe-like System) for Ethiopia**
+**CommunityConnect: A Donation Platform for Ethiopia That Bridges Donors and Communities**
 
 ---
-
-## 1. Background
+## 1. Introduction
+### 1.1 Background Study
 
 In Ethiopia, individuals facing life challenges such as medical emergencies, education expenses, funeral costs, and sudden personal crises often depend on informal fundraising mechanisms. These mechanisms typically involve social media posts, personal bank transfers, or word-of-mouth communication. While these approaches reflect the country’s strong culture of community support, they suffer from significant limitations, including lack of transparency, limited reach, weak verification mechanisms, and low donor trust.
 
