@@ -96,11 +96,11 @@ The system will be developed as a web-based application and deployed in a contro
 The project will be developed using an Agile software development methodology implemented through the Scrum framework, adopting an iterative and incremental development approach. The system will be developed in a series of time-boxed iterations (sprints), with each sprint encompassing a structured set of development activities. 
 
 These activities will follow the main phases: 
--**Requirement analysis**: Identifying and refining  functional and non-functional requirements.
--**System design**: Designing the overall system architecture, database schema, and user interfaces.
--**Implementation**: Developing the front-end and back-end components of the system; 
--**Testing**: Conducting unit, integration, and system testing to validate functionality, detect bugs, and ensure the platform meets user requirements.
--**Comprehensive documentation**: will be prepared throughout the development process, including technical documentation for developers and user documentation to support effective system usage. 
+- **Requirement analysis**: Identifying and refining  functional and non-functional requirements.
+- **System design**: Designing the overall system architecture, database schema, and user interfaces.
+- **Implementation**: Developing the front-end and back-end components of the system; 
+- **Testing**: Conducting unit, integration, and system testing to validate functionality, detect bugs, and ensure the platform meets user requirements.
+- **Comprehensive documentation**: will be prepared throughout the development process, including technical documentation for developers and user documentation to support effective system usage. 
 
 
 
