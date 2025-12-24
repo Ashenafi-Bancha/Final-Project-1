@@ -93,7 +93,7 @@ The system will be developed as a web-based application and deployed in a contro
 
 ## 5. Systmem Development Methodology
 
-The project will be developed using an Agile software development methodology implemented through the Scrum framework, adopting an iterative and incremental development approach. The system will be developed in a series of time-boxed iterations (sprints), with each sprint encompassing a structured set of development activities. 
+The project will be developed using an *Agile software development methodology* implemented through the *Scrum framework*, adopting an iterative and incremental development approach. The system will be developed in a series of time-boxed iterations (sprints), with each sprint encompassing a structured set of development activities. 
 
 These activities will follow the main phases: 
 - **Requirement analysis**: Identifying and refining  functional and non-functional requirements.
