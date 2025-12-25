@@ -164,6 +164,13 @@ The project will follow a structured software development approach:
 
 ---
 
+## GANTT CHART OF THE PROJECT
+
+![Gantt Chart](../images/gantt-chart.png)
+
+
+---
+
 ## 10. Expected Outcomes
 
 - A functional prototype of a life-based crowdfunding platform.
