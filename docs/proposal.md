@@ -2,13 +2,13 @@
 
 ## Project Title
 
-**CommunityConnect: A Donation Platform for Ethiopia That Bridges Donors and Communities**
+**EthioFund:A Crowdfunding Platform for Individuals and Communities in Ehtiopia**
 
 ---
 
 ## Abstract
 
-CommunityConnect is a web-based, life-oriented donation and crowdfunding platform designed to address the challenges of informal fundraising practices in Ethiopia. Currently, individuals and communities rely heavily on social media, personal networks, and manual bank transfers to raise funds for medical emergencies, education expenses, funerals, disasters, and community projects. These methods lack transparency, accountability, and proper verification, leading to mistrust and limited donor participation, especially from the Ethiopian diaspora.
+EthioFund is a web-based, life-oriented donation and crowdfunding platform designed to address the challenges of informal fundraising practices in Ethiopia. Currently, individuals and communities rely heavily on social media, personal networks, and manual bank transfers to raise funds for medical emergencies, education expenses, funerals, disasters, and community projects. These methods lack transparency, accountability, and proper verification, leading to mistrust and limited donor participation, especially from the Ethiopian diaspora.
 CommunityConnect aims to provide a secure, transparent, and localized digital platform that enables individuals and communities to create verified fundraising campaigns while allowing donors to contribute confidently. The system incorporates admin-based campaign verification, donation progress tracking, community support reporting, and culturally relevant features such as anonymous donations and phone number–based registration. This project is proposed as a Final Year Project and serves as a scalable foundation for a real-world Ethiopian donation platform.
 
 ---
@@ -23,7 +23,7 @@ Despite this strong social support system, fundraising activities remain largely
 
 With the increasing adoption of digital technologies and internet services in Ethiopia, there is an opportunity to transform traditional fundraising into a more structured and reliable digital process. Although international crowdfunding platforms such as GoFundMe offer structured solutions, they are not fully accessible or localized for Ethiopian users due to contextual and payment-related constraints.
 
-To address these challenges, CommunityConnect is proposed as a web-based, localized crowdfunding platform that enables individuals to create verified fundraising campaigns for personal life events and community needs. The platform aims to provide a secure, transparent, and trustworthy environment for donors while strengthening community support through technology.
+To address these challenges, EthioFund is proposed as a web-based, localized crowdfunding platform that enables individuals to create verified fundraising campaigns for personal life events and community needs. The platform aims to provide a secure, transparent, and trustworthy environment for donors while strengthening community support through technology.
 
 ---
 
@@ -37,7 +37,7 @@ Studying this problem is essential to understand how modern web-based fundraisin
 ### 1.3. Motivation
 
 The motivation for this project stems from real-life observations of individuals and communities facing significant challenges in raising funds during critical life events, such as medical emergencies, education-related expenses, and funeral costs. Despite the presence of genuine and urgent needs, many fundraising efforts fail to receive adequate support due to donor mistrust, lack of transparency, and the absence of reliable verification mechanisms in existing informal fundraising practices.
-Furthermore, this project is motivated by the aspiration to contribute to Ethiopia’s ongoing digital transformation by applying modern web technologies to address pressing social challenges. Developing CommunityConnect as a Final Year Project provides an opportunity to build a socially impactful and locally relevant system that strengthens community support, promotes transparency, and delivers meaningful benefits to individuals and communities across Ethiopia.
+Furthermore, this project is motivated by the aspiration to contribute to Ethiopia’s ongoing digital transformation by applying modern web technologies to address pressing social challenges. Developing EthioFund as a Final Year Project provides an opportunity to build a socially impactful and locally relevant system that strengthens community support, promotes transparency, and delivers meaningful benefits to individuals and communities across Ethiopia.
 
 ---
 
@@ -78,7 +78,7 @@ To design and develop a web-based, life-oriented crowdfunding platform that enab
 
 ### 4.1 Scope
 
-The CommunityConnect system focuses on individual- and community-based, life-oriented crowdfunding. The platform will include core functionalities such as user registration using phone numbers, campaign creation and categorization by life events, admin-based campaign verification, donation processing (real or simulated), donation progress visualization, anonymous donation options, campaign updates, and administrative monitoring.
+The EthioFund system focuses on individual- and community-based, life-oriented crowdfunding. The platform will include core functionalities such as user registration using phone numbers, campaign creation and categorization by life events, admin-based campaign verification, donation processing (real or simulated), donation progress visualization, anonymous donation options, campaign updates, and administrative monitoring.
 
 The system will be developed as a web-based application and deployed in a controlled academic environment. Payment gateway integration may be simulated or limited for demonstration purposes.
 
