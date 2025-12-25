@@ -166,7 +166,7 @@ The project will follow a structured software development approach:
 
 ## GANTT CHART OF THE PROJECT
 
-![Gantt Chart](../images/gantt-chart.png)
+![Gantt Chart](https://github.com/Ashenafi-Bancha/Final-Project-1/blob/main/images/gantchart.drawio.svg)
 
 
 ---
