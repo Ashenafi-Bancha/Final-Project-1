@@ -1,6 +1,6 @@
-# CommunityConnect: A Life-Oriented Crowdfunding Platform (GoFundMe-like System) for Ethiopia
+# EthioFund: A Crowdfunding Platform for Individuals and Communities in Ethiopia
 
-CommunityConnect is a web-based, life-oriented crowdfunding platform designed to help individuals and communities in Ethiopia raise funds for urgent life-related needs such as medical emergencies, education support, funerals, accidents, and disasters.  
+EthioFund is a web-based, life-oriented crowdfunding platform designed to help individuals and communities in Ethiopia raise funds for urgent life-related needs such as medical emergencies, education support, funerals, accidents, and disasters.  
 The system focuses on **transparency, trust, and simplicity**, inspired by platforms like GoFundMe but tailored to the Ethiopian context.
 
 ---
@@ -173,6 +173,7 @@ The system implements essential security measures to protect user data and ensur
 ---
 
 > *CommunityConnect – Connecting communities through trust, transparency, and support.*
+
 
 
 
