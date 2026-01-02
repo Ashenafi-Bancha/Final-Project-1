@@ -9,7 +9,6 @@ Currently, fundraising activities in Ethiopia are conducted through informal, de
 
 Fundraising is deeply embedded in Ethiopia’s strong community culture and is commonly carried out through social media appeals, in-person collections, and direct financial transfers. Social media platforms such as Facebook and Telegram are widely used to share fundraising stories and mobilize support from friends, family members, and the Ethiopian diaspora. In addition, community gatherings, religious institutions, and family networks facilitate face-to-face cash collections. Financial contributions are also made through direct bank transfers and mobile money services.
 
----
 ## 2.2.2.  Problems of The Existing System
 Despite strong community support, the existing system faces several challenges:
 -Lack of a centralized and trusted digital fundraising platform
