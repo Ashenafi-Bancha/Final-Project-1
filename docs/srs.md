@@ -17,3 +17,13 @@ Despite strong community support, the existing system faces several challenges:
 -Limited transparency and accountability
 -Difficulty in tracking donations and fund utilization
 -Limited reach to donors beyond immediate social networks
+
+---
+# 2.3. Requirement Gathering
+2.3. 1. Requirement Gathering Methodologies
+The Requirement for EthioFund were gathered using the following methods: 
+-Literature review of crowdfunding platforms such as GoFundMe.
+-Document analysis of existing informal fundraising practices
+-System requirement analysis based on real-life fundraising scenarios in Ethiopia
+-Advisor guidance and academic standards for final-year software projects
+
