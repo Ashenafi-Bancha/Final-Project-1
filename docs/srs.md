@@ -29,7 +29,6 @@ The Requirement for EthioFund were gathered using the following methods:
 - System requirement analysis based on real-life fundraising scenarios in Ethiopia
 - Advisor guidance and academic standards for final-year software projects
 
-  ---
 ## 2.3. 2. Results Found
 The Requirement gathering process revealed the need for:
 - A verified and transparent fundraising system
