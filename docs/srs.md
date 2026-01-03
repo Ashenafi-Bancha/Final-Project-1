@@ -11,12 +11,13 @@ Fundraising is deeply embedded in Ethiopia’s strong community culture and is c
 
 ## 2.2.2.  Problems of The Existing System
 Despite strong community support, the existing system faces several challenges:
--Lack of a centralized and trusted digital fundraising platform
--Absence of verification mechanisms for fundraising campaigns
--High risk of fraud and misuse of funds
--Limited transparency and accountability
--Difficulty in tracking donations and fund utilization
--Limited reach to donors beyond immediate social networks
+
+- Lack of a centralized and trusted digital fundraising platform
+- Absence of verification mechanisms for fundraising campaigns
+- High risk of fraud and misuse of funds
+- Limited transparency and accountability
+- Difficulty in tracking donations and fund utilization
+- Limited reach to donors beyond immediate social networks
 
 ---
 # 2.3. Requirement Gathering
