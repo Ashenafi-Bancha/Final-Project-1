@@ -37,4 +37,9 @@ The Requirement gathering process revealed the need for:
 - Admin oversight and campaign approval
 - A simple and user-friendly interface
 - A system accessible to both local users and the Ethiopian diaspora
+  
+---
 
+# 2.4. Proposed System
+## 2.4.1. Overview
+EthioFund is a web-based crowdfunding platform similar to GoFundMe but tailored to the Ethiopian context. The system enables individuals and communities to create verified fundraising campaigns while allowing donors to contribute securely and transparently. Administrative oversight ensures trust, accountability, and fraud prevention.
