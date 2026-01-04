@@ -43,3 +43,17 @@ The Requirement gathering process revealed the need for:
 # 2.4. Proposed System
 ## 2.4.1. Overview
 EthioFund is a web-based crowdfunding platform similar to GoFundMe but tailored to the Ethiopian context. The system enables individuals and communities to create verified fundraising campaigns while allowing donors to contribute securely and transparently. Administrative oversight ensures trust, accountability, and fraud prevention.
+
+## 2.4.2. Functional Requirements
+
+
+## 2.4.2. Non-Functional Requirements
+### 2.4.3.1. User Interface and Human Factors
+
+The system shall provide a simple, intuitive, and mobile-responsive interface suitable for users with varying levels of technical expertise. The interface shall use clear language and straightforward navigation.
+### 2.4.3.2. Documentation
+Comprehensive documentation shall be provided to support effective system use, maintenance, and future enhancement of EthioFund. The documentation will include the following:
+- **User Documentation:** Clear and comprehensive user documentation shall be developed to guide end-users, including donors, campaign organizers, and administrators, in using the system effectively. User manuals will explain system features, navigation, and common tasks such as campaign creation, donation processes, and report viewing.
+- **Technical and Development Process Documentation**: Technical documentation shall be prepared to support system maintenance and future development. This documentation will cover system architecture, technologies used, database design, and implementation details. In addition, the development process shall be documented to ensure transparency and facilitate future enhancements. This includes documentation of the development methodology, tools used, and the rationale behind key technical and design decisions made during the development of the system.
+
+
