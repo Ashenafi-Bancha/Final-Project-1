@@ -57,6 +57,12 @@ This section describees the high-level functional requiurments of EthioFund plat
 - **FR06**: The system shall allow visitors and registered users to view fundraising campaigns.
 - **FR07**: The system shall allow users to share campaign links via social media and messaging platforms
 
+### C. Donation Processing
+- **FR08**: The system shall allow donors to donate any amount of money to a campaign.
+- **FR09**: The system shall support secure donation payment processing through an   	external payment gateway.
+- **FR10**: The system shall allow donors to leave comments or messages on their        	donations.
+- **FR11**: The system shall record and store donation transactions for transparency and     	reporting
+
 
 ## 2.4.2. Non-Functional Requirements
 ### 2.4.3.1. User Interface and Human Factors
