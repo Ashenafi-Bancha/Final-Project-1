@@ -53,6 +53,10 @@ This section describees the high-level functional requiurments of EthioFund plat
 - **FR04**: The system shall allow users to manage and update their personal profiles.
 - **FR05**: The system shall allow donors to view their donation history.
 
+### B. Campaign Creation and Management
+- **FR06**: The system shall allow visitors and registered users to view fundraising campaigns.
+- **FR07**: The system shall allow users to share campaign links via social media and messaging platforms
+
 
 ## 2.4.2. Non-Functional Requirements
 ### 2.4.3.1. User Interface and Human Factors
@@ -73,3 +77,5 @@ The system shall be designed to operate on standard computers and mobile devices
 - **Responsiveness:** The system shall be highly responsive to user interactions, ensuring a smooth and reliable user experience. Core actions such as browsing campaigns, viewing details, making donations, and submitting fundraising requests should be processed with minimal delay.
 - **Load Handling:** The system shall be designed to handle a large number of concurrent users, particularly during periods of high activity such as emergency fundraising campaigns, viral social media sharing, or nationwide appeals.
 - **Capacity:** EthioFund shall support a scalable number of concurrent users, including donors, campaign creators, and administrators, while maintaining consistent performance during peak usage periods.
+
+
