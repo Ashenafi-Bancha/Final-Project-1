@@ -60,3 +60,9 @@ Comprehensive documentation shall be provided to support effective system use, m
 
 The system shall operate on standard computers and mobile devices without requiring specialized hardware. It shall be compatible with commonly used web browsers. 
 The system shall be designed to operate on standard computers and mobile devices without requiring any specialized hardware. It shall be compatible with commonly used web browsers and support a wide range of devices, including smartphones, tablets, and desktop computers, to ensure accessibility and flexibility for users with varying hardware resources. The system shall have no specific hardware dependencies and will interact seamlessly with commonly available devices.
+
+### 2.4.3.4. Performance Characteristics
+
+- **Responsiveness:** The system shall be highly responsive to user interactions, ensuring a smooth and reliable user experience. Core actions such as browsing campaigns, viewing details, making donations, and submitting fundraising requests should be processed with minimal delay.
+- **Load Handling:** The system shall be designed to handle a large number of concurrent users, particularly during periods of high activity such as emergency fundraising campaigns, viral social media sharing, or nationwide appeals.
+- **Capacity:** EthioFund shall support a scalable number of concurrent users, including donors, campaign creators, and administrators, while maintaining consistent performance during peak usage periods.
