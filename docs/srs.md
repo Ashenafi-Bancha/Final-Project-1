@@ -45,6 +45,13 @@ The Requirement gathering process revealed the need for:
 EthioFund is a web-based crowdfunding platform similar to GoFundMe but tailored to the Ethiopian context. The system enables individuals and communities to create verified fundraising campaigns while allowing donors to contribute securely and transparently. Administrative oversight ensures trust, accountability, and fraud prevention.
 
 ## 2.4.2. Functional Requirements
+This section describees the high-level functional requiurments of EthioFund platform.
+### A. User Account Management
+- **FR01**: The system shall allow users to register securely using an email address or phone number.
+- **FR02**: The system shall allow registered users to log in securely to the system.
+- **FR03**: The system shall support role-based access control for different user types.
+- **FR04**: The system shall allow users to manage and update their personal profiles.
+- **FR05**: The system shall allow donors to view their donation history.
 
 
 ## 2.4.2. Non-Functional Requirements
