@@ -60,8 +60,14 @@ This section describees the high-level functional requiurments of EthioFund plat
 ### C. Donation Processing
 - **FR08**: The system shall allow donors to donate any amount of money to a campaign.
 - **FR09**: The system shall support secure donation payment processing through an   	external payment gateway.
-- **FR10**: The system shall allow donors to leave comments or messages on their        	donations.
-- **FR11**: The system shall record and store donation transactions for transparency and     	reporting
+- **FR10**: The system shall allow donors to leave comments or messages on their donations.
+- **FR11**: The system shall record and store donation transactions for transparency and reporting
+
+### C. Donation Processing
+- **FR08**: The system shall allow donors to donate any amount of money to a campaign.
+- **FR09**: The system shall support secure donation payment processing through an   	external payment gateway.
+- **FR10**: The system shall allow donors to leave comments or messages on their donations.
+- **FR11**: The system shall record and store donation transactions for transparency and reporting
 
 
 ## 2.4.2. Non-Functional Requirements
