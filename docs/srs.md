@@ -83,6 +83,9 @@ This section describees the high-level functional requiurments of EthioFund plat
 - **FR20**: The system shall allow administrators to view and generate system-level and campaign-level reports for monitoring and decision-making purposes.
 - **FR21**: The system shall allow administrators to manage campaigns, including suspension or removal of campaigns that violate platform policies.
 
+### F.  Payment Confirmation
+-**FR22**: The system shall process donation payments through an external payment gateway.
+- **FR23**: The system shall confirm payment transactions and update campaign balances       accordingly.
 
 
 
