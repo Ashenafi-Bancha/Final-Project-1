@@ -69,6 +69,16 @@ This section describees the high-level functional requiurments of EthioFund plat
 - **FR10**: The system shall allow donors to leave comments or messages on their donations.
 - **FR11**: The system shall record and store donation transactions for transparency and reporting
 
+### D. Campaign Creation and Management
+- **FR12**: The system shall allow users (campaign organizers) to create fundraising campaigns by submitting required campaign details, including purpose, target amount, duration, and supporting information.
+- **FR13**: The system shall require all newly created campaigns to undergo an administrative review before they become publicly visible.
+- **FR14**: The system shall allow administrators to approve or reject fundraising campaigns during the creation review process.
+- **FR15**: The system shall allow campaign organizers to edit campaign details only for approved campaigns, subject to system rules.
+- **FR16**: The system shall allow campaign organizers to post updates and progress information to their approved campaigns.
+- **FR17**: The system shall display campaign progress in relation to the fundraising goal, including the total amount raised and remaining balance.
+- **FR18**: The system shall allow campaign organizers to request withdrawal of raised funds after meeting predefined conditions and administrative approval. 
+
+
 
 ## 2.4.2. Non-Functional Requirements
 ### 2.4.3.1. User Interface and Human Factors
