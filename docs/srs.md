@@ -76,7 +76,13 @@ This section describees the high-level functional requiurments of EthioFund plat
 - **FR15**: The system shall allow campaign organizers to edit campaign details only for approved campaigns, subject to system rules.
 - **FR16**: The system shall allow campaign organizers to post updates and progress information to their approved campaigns.
 - **FR17**: The system shall display campaign progress in relation to the fundraising goal, including the total amount raised and remaining balance.
-- **FR18**: The system shall allow campaign organizers to request withdrawal of raised funds after meeting predefined conditions and administrative approval. 
+- **FR18**: The system shall allow campaign organizers to request withdrawal of raised funds after meeting predefined conditions and administrative approval.
+
+### E. Administration and Monitoring
+- **FR19**: The system shall allow administrators to monitor overall platform activities, including user registrations, campaigns, and donations.
+- **FR20**: The system shall allow administrators to view and generate system-level and campaign-level reports for monitoring and decision-making purposes.
+- **FR21**: The system shall allow administrators to manage campaigns, including suspension or removal of campaigns that violate platform policies.
+
 
 
 
