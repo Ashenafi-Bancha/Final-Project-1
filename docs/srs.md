@@ -109,4 +109,8 @@ The system shall be designed to operate on standard computers and mobile devices
 - **Load Handling:** The system shall be designed to handle a large number of concurrent users, particularly during periods of high activity such as emergency fundraising campaigns, viral social media sharing, or nationwide appeals.
 - **Capacity:** EthioFund shall support a scalable number of concurrent users, including donors, campaign creators, and administrators, while maintaining consistent performance during peak usage periods.
 
+### 2.4.3.5. Error Handling and Extreme Conditions
+- **Exception Handling:** The system shall implement robust error-handling mechanisms to gracefully manage exceptions and prevent system crashes or data loss. It shall handle exceptions related to failed transactions, network interruptions, invalid user inputs, authentication and authorization errors, and system integration failures with payment services. User-friendly error messages shall be displayed to inform users of issues and guide them toward corrective actions.
+
+
 
