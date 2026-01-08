@@ -112,5 +112,8 @@ The system shall be designed to operate on standard computers and mobile devices
 ### 2.4.3.5. Error Handling and Extreme Conditions
 - **Exception Handling:** The system shall implement robust error-handling mechanisms to gracefully manage exceptions and prevent system crashes or data loss. It shall handle exceptions related to failed transactions, network interruptions, invalid user inputs, authentication and authorization errors, and system integration failures with payment services. User-friendly error messages shall be displayed to inform users of issues and guide them toward corrective actions.
 
+**Worst-Case Environment:** EthioFund is expected to operate reliably under challenging conditions, including low-bandwidth internet connections, intermittent network availability, and high traffic during emergency fundraising campaigns. The system shall maintain core functionality and ensure data consistency even in unstable connectivity environments.   
+Safety Requirements: The system shall incorporate safety measures to protect users from financial and data-related risks. This includes preventing duplicate or unauthorized transactions, safeguarding sensitive user information, and ensuring that donations are processed accurately. Additional controls shall be implemented to minimize fraud, misuse of funds, and misleading fundraising campaigns, thereby preserving user trust and system integrity.
+
 
 
