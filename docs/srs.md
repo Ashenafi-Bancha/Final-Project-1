@@ -115,5 +115,10 @@ The system shall be designed to operate on standard computers and mobile devices
 - **Worst-Case Environment:** EthioFund is expected to operate reliably under challenging conditions, including low-bandwidth internet connections, intermittent network availability, and high traffic during emergency fundraising campaigns. The system shall maintain core functionality and ensure data consistency even in unstable connectivity environments.   
 Safety Requirements: The system shall incorporate safety measures to protect users from financial and data-related risks. This includes preventing duplicate or unauthorized transactions, safeguarding sensitive user information, and ensuring that donations are processed accurately. Additional controls shall be implemented to minimize fraud, misuse of funds, and misleading fundraising campaigns, thereby preserving user trust and system integrity.
 
+### 2.4.3.6. Quality Issues
+The system shall be designed to be reliable, available, and robust to ensure consistent and trustworthy operation for all users. EthioFund shall maintain high availability so that users can access the platform at any time, particularly during urgent fundraising campaigns. The system shall also be resilient to failures and capable of recovering gracefully from errors without compromising data integrity or user trust.
+
+The client and system administrators shall be involved in assessing the quality of the system through administrative reviews, testing, and validation activities. These assessments will evaluate system performance, usability, security, and compliance with defined requirements throughout the development process and before final deployment.
+
 
 
