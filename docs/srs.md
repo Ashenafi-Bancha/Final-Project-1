@@ -122,7 +122,13 @@ The client and system administrators shall be involved in assessing the quality 
 
 ### 2.4.3.7. System Modifications  
 The EthioFund system shall be designed with modularity and scalability in mind to accommodate future modifications and enhancements. Anticipated changes may include the addition of new fundraising features, integration with international payment systems, improved verification mechanisms, enhanced security controls, and support for additional languages.
+
 All system modifications shall be performed by authorized developers or system maintainers following established development and change-management procedures. Proper documentation and testing shall accompany any modifications to ensure that system reliability, security, and performance are not adversely affected.
+
+ ### 2.4.3.8. Physical Environment 
+The EthioFund system will primarily be developed and tested on a local development server and accessed through standard web browsers on computers and mobile devices. Browser-based testing will be conducted to ensure compatibility across commonly used browsers.
+
+Optional deployment may be carried out on cloud-based hosting platforms such as Heroku (backend) and Netlify or Vercel (frontend) for demonstration and evaluation purposes. As a web-based system, EthioFund is not directly affected by physical environmental factors such as weather conditions. However, it is expected to operate reliably under varying network conditions common in the Ethiopian context.
 
 
 
