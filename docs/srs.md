@@ -120,5 +120,10 @@ The system shall be designed to be reliable, available, and robust to ensure con
 
 The client and system administrators shall be involved in assessing the quality of the system through administrative reviews, testing, and validation activities. These assessments will evaluate system performance, usability, security, and compliance with defined requirements throughout the development process and before final deployment.
 
+### 2.4.3.7. System Modifications  
+The EthioFund system shall be designed with modularity and scalability in mind to accommodate future modifications and enhancements. Anticipated changes may include the addition of new fundraising features, integration with international payment systems, improved verification mechanisms, enhanced security controls, and support for additional languages.
+All system modifications shall be performed by authorized developers or system maintainers following established development and change-management procedures. Proper documentation and testing shall accompany any modifications to ensure that system reliability, security, and performance are not adversely affected.
+
+
 
 
