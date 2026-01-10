@@ -143,6 +143,18 @@ EthioFund shall be optimized to consume minimal system and network resources. It
 ## 2.5.  Constraints/ Pseudo Requirements
 The system’s development and operation are subject to certain real-world limitations and practical constraints:
 
+**Financial Constraints**: Limited budget for system development, hosting, and maintenance may restrict the use of premium tools or high-capacity servers.
+
+**Technical Constraints**: Users may have varying internet connectivity speeds and device capabilities, which could affect accessibility and performance.
+
+**Regulatory Constraints**: Compliance with Ethiopian financial and data protection regulations may limit certain payment integrations or user data handling.
+
+**Time Constraints**: The system must be developed, tested, and deployed within the academic project timeline.
+
+**User Constraints**: Donors and beneficiaries may have limited digital literacy, requiring a simple and intuitive user interface.
+
+**Resource Constraints**: Limited server capacity and bandwidth may restrict the number of concurrent users and campaign media sizes
+
 
 
 
