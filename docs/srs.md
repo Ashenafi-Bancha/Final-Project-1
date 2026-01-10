@@ -130,6 +130,13 @@ The EthioFund system will primarily be developed and tested on a local developme
 
 Optional deployment may be carried out on cloud-based hosting platforms such as Heroku (backend) and Netlify or Vercel (frontend) for demonstration and evaluation purposes. As a web-based system, EthioFund is not directly affected by physical environmental factors such as weather conditions. However, it is expected to operate reliably under varying network conditions common in the Ethiopian context.
 
+### 2.4.3.9. Security Issues 
+The EthioFund system shall be protected against both external intrusions and malicious or unauthorized users. Appropriate security mechanisms will be implemented to safeguard sensitive data, including user personal information, donation records, and financial transaction details.
+
+The system shall enforce user authentication and authorization to ensure that only legitimate users can access protected functionalities. Secure communication protocols shall be used to protect data transmission, and basic input validation mechanisms shall be applied to prevent common web-based attacks such as unauthorized access and data manipulation.
+
+Administrative controls shall be in place to monitor system activities, detect suspicious behavior, and manage user roles. The overall level of security will be sufficient to establish trust, data integrity, and confidentiality, while remaining practical for deployment in the Ethiopian technological environment. 
+
 
 
 
