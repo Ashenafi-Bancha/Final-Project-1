@@ -137,6 +137,9 @@ The system shall enforce user authentication and authorization to ensure that on
 
 Administrative controls shall be in place to monitor system activities, detect suspicious behavior, and manage user roles. The overall level of security will be sufficient to establish trust, data integrity, and confidentiality, while remaining practical for deployment in the Ethiopian technological environment. 
 
+  ### 2.4.3.10. Resource Issues
+EthioFund shall be optimized to consume minimal system and network resources. It should function efficiently on standard computers, tablets, and smartphones with typical internet bandwidth. Resource constraints include limiting CPU and memory usage on client devices and ensuring server-side scalability to handle multiple concurrent users without degradation in performance
+
 
 
 
