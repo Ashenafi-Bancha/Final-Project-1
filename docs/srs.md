@@ -158,6 +158,10 @@ The system’s development and operation are subject to certain real-world limit
 ## 2.6. System Model
 This section presents the system modeling of EthioFund using scenarios and UML-based models, including use case modeling, actor identification, and their relationships. The system model illustrates how different actors interact with the system to achieve functional requirements.
 
+### 2.6.1. Scenario
+The following scenarios describe major interactions between actors and the EthioFund platform in order to achieve a defined goal.
+
+
 
 
 
