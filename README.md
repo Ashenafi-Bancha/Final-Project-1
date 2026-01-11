@@ -172,7 +172,8 @@ The system implements essential security measures to protect user data and ensur
 - **Ms. Beimnet Girma**
 ---
 
-> *CommunityConnect – Connecting communities through trust, transparency, and support.*
+> ***EthioFund** – Connecting communities through trust, transparency, and support.*
+
 
 
 
