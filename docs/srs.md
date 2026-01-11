@@ -153,7 +153,12 @@ The system’s development and operation are subject to certain real-world limit
 
 **User Constraints**: Donors and beneficiaries may have limited digital literacy, requiring a simple and intuitive user interface.
 
-**Resource Constraints**: Limited server capacity and bandwidth may restrict the number of concurrent users and campaign media sizes
+**Resource Constraints**: Limited server capacity and bandwidth may restrict the number of concurrent users and campaign media sizes.
+
+## 2.6. System Model
+This section presents the system modeling of EthioFund using scenarios and UML-based models, including use case modeling, actor identification, and their relationships. The system model illustrates how different actors interact with the system to achieve functional requirements.
+
+
 
 
 
