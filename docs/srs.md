@@ -180,11 +180,11 @@ The following actors have been identified based on the functional requirements a
 5. Payment Gateway (External Actor)
 
 #### b) Actor Generalization and Specialization
-**Use*8r: any person who interacts with the EthioFund System.
-**Guest User**: A Guest User is unregistered to the system.
-**Registered User**: A Registered User is a user with an authenticated account.
-**Dono**r: A Donor is a registered user who contributes financially to campaigns.
-**Campaign Organizer**: A Campaign Organizer is a registered user who reports requests,  creates and manages fundraising campaigns.
+- **User**: any person who interacts with the EthioFund System.
+- **Guest User**: A Guest User is unregistered to the system.
+- **Registered User**: A Registered User is a user with an authenticated account.
+- **Dono**r: A Donor is a registered user who contributes financially to campaigns.
+- **Campaign Organizer**: A Campaign Organizer is a registered user who reports requests,  creates and manages fundraising campaigns.
 
 
 
