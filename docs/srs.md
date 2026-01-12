@@ -168,5 +168,13 @@ The following scenarios describe major interactions between actors and the Ethio
 
 
 
+## 2.6.2. Use Case Model
+The use case model describes the functional behavior of the EthioFund system by identifying system actors and their interactions with the system. It provides a structured representation of user requirements and supports system analysis and design. 
+
+
+
+
+
+
 
 
