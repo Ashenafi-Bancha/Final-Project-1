@@ -171,6 +171,13 @@ The following scenarios describe major interactions between actors and the Ethio
 ## 2.6.2. Use Case Model
 The use case model describes the functional behavior of the EthioFund system by identifying system actors and their interactions with the system. It provides a structured representation of user requirements and supports system analysis and design. 
 
+#### a) Identified Actors
+The following actors have been identified based on the functional requirements and system scope.
+1. Guest User
+2. Donor
+3. Campaign Organizer
+4. Admin
+5. Payment Gateway (External Actor)
 
 
 
