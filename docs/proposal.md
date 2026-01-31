@@ -85,7 +85,6 @@ The system will be developed as a web-based application and deployed in a contro
 ### 4.2 Limitations
 
 - The system does not include full banking settlement or financial licensing.
-- Mobile applications are outside the scope of this project.
 - Advanced fraud detection mechanisms are not implemented.
 - Internet accessibility limitations may affect real-world deployment.
 
